@@ -70,7 +70,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Contrast: 0.4
+    - _Contrast: 1
     - _HybridHeightBlendDistance: 300
     m_Colors:
     - _UVScale: {r: 10, g: 10, b: 0, a: 0}
